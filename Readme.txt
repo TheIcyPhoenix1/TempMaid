@@ -1,7 +1,7 @@
 Temp Maid is a small program made just to keep around and once in a while use to clean up Temp folder instantly with a single click,
 its so annoying to do manually,first navigating to it,then selecting everything,
 then some temp stuff might be important and you have to click billion times on the skip button,then you got to empty recycle bin.
-this just does do automathically,it automathically puts files from temp folder that are not important or in use in recycle bin and silently empties it.
+this just does it automathically,it automathically puts files from temp folder that are not important or in use in recycle bin and silently empties it.
 
 how to install:
 Exe itself is the entire program so that one needs no install and can just be put to your desktop or anywhere else youd like.
